@@ -1,2 +1,2 @@
 # BashScripts
-These are scripts for training 
+These are scripts written by me.
