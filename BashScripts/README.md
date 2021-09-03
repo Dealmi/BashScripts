@@ -1,6 +1,7 @@
 # BashScripts
 These are scripts written by me.
 -------
+#!/bin/sh -e < to check errors in script , it fails on the 1st error
 
 Specail variables used in bash
 $#	- Number of command-line arguments.
