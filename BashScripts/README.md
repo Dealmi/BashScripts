@@ -28,7 +28,8 @@ $*, $@	- All arguments on command line ($1 $2 …).
 “$@”	- All arguments on command line, individually quoted (“$1” “$2” …).
 
 
-Bash declare Options
+Declare
+
 The declare command works with the following general options:
 
 Option	Description
