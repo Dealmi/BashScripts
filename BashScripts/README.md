@@ -3,6 +3,8 @@ These are scripts written by me.
 -------
 #!/bin/sh -e < to check errors in script , it fails on the 1st error
 
+Declare <-x> variable - declaration of variable
+
 Specail variables used in bash
 
 $#	- Number of command-line arguments.
