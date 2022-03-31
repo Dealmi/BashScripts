@@ -27,6 +27,8 @@ $*, $@	- All arguments on command line ($1 $2 …).
 
 “$@”	- All arguments on command line, individually quoted (“$1” “$2” …).
 
+!!  -  Repeat the last command
+
 
 Declare
 
