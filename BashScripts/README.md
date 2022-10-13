@@ -19,7 +19,7 @@ $!	- Process number of last background command.
 
 $0	- First word; that is, the command name. This will have the full pathname if it was found via a PATH search.
 
-$n	- Individual arguments on command line (positional parameters). The Bourne shell allows only nine parameters to be referenced directly (n = 1–9); Bash allows n to be greater         than 9 if specified as ${n}.
+$n	- Individual arguments on command line (positional parameters). The Bourne shell allows only nine parameters to be referenced directly (n = 1–9); Bash allows n to be greater than 9 if specified as ${n}.
 
 $*, $@	- All arguments on command line ($1 $2 …).
 
@@ -29,6 +29,8 @@ $*, $@	- All arguments on command line ($1 $2 …).
 
 !!  -  Repeat the last command
 
+
+export - makes variables available in childs processes or apps
 
 Declare
 
